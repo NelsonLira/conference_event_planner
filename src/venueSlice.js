@@ -36,6 +36,7 @@ export const venueSlice = createSlice({
     },
   
   ],
+
   reducers: {
    
     incrementQuantity: (state, action) => {
